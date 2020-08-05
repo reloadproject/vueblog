@@ -6,6 +6,12 @@
 
 一个基于SpringBoot + Vue开发的前后端分离博客项目，带有超级详细开发文档和讲解视频。还未接触过vue开发，或者前后端分离的同学，学起来哈。别忘了给vueblog一个star！感谢
 
+vueblog项目文档：https://juejin.im/post/5ecfca676fb9a04793456fb8
+
+vueblog项目视频：https://www.bilibili.com/video/BV1PQ4y1P7hZ
+
+vueblog代码仓库：https://github.com/MarkerHub/vueblog
+
 ### 技术栈：
 
 ![](https://oscimg.oschina.net/oscnet/up-4626cb696c003e36c4515e77adc7632c6ed.png)
